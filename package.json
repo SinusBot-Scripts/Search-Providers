@@ -1,0 +1,22 @@
+{
+  "name": "@sinusbot-scripts/search-providers-youtube",
+  "version": "1.0.0",
+  "description": "This script lets you search YouTube for the SinusBot.",
+  "main": "search_providers_youtube.js",
+  "scripts": {
+    "test": "node dummy-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinusbot-scripts/search-providers.git"
+  },
+  "author": "Lala Sabathil <aiko@aitsys.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinusbot-scripts/search-providers/issues"
+  },
+  "homepage": "https://github.com/sinusbot-scripts/search-providers#readme",
+  "devDependencies": {
+    "sinusbot-scripting-engine": "^1.0.18"
+  }
+}
